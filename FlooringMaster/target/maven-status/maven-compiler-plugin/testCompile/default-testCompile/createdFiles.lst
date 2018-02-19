@@ -1,0 +1,4 @@
+com\sg\flooringmaster\dao\FlooringMasterInventoryDaoImplTest.class
+com\sg\flooringmaster\dao\FlooringMasterOrderDaoImplTest.class
+com\sg\flooringmaster\dao\FlooringMasterStateTaxDaoImplTest.class
+com\sg\flooringmaster\servicelayer\FlooringMasterServiceLayerTest.class
